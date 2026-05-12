@@ -4,12 +4,11 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: rayssa fernandes
+- Matricula: 906544
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
 
 
 
